@@ -1,9 +1,0 @@
-https://www.w3schools.com/w3css/tryw3css_templates_band.htm#
-1. header
-2. slider
-3. content
-    - about
-    - tour
-    - contact
-    - image
-4. footer
